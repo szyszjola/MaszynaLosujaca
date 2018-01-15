@@ -1,0 +1,14 @@
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe.config
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\bin\Debug\WpfApp6.exe
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\bin\Debug\WpfApp6.pdb
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\obj\Debug\MainWindow.g.cs
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\obj\Debug\App.g.cs
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.cache
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6_MarkupCompile.lref
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\obj\Debug\MainWindow.baml
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.g.resources
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.Properties.Resources.resources
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\obj\Debug\MaszynaLosujaca.csproj.GenerateResource.Cache
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\obj\Debug\MaszynaLosujaca.csproj.CoreCompileInputs.cache
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.exe
+c:\users\jolanta.szyszkiewicz.iteger\source\repos\WpfApp6\WpfApp6\obj\Debug\WpfApp6.pdb
